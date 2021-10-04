@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c5c36485.chunk.css",
+    "main.js": "/static/js/main.9887099c.chunk.js",
+    "main.js.map": "/static/js/main.9887099c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39aa26b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39aa26b7.js.map",
+    "static/js/2.f40b5258.chunk.js": "/static/js/2.f40b5258.chunk.js",
+    "static/js/2.f40b5258.chunk.js.map": "/static/js/2.f40b5258.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dca5273b2d274ea501d0791a613f8a4f.js": "/precache-manifest.dca5273b2d274ea501d0791a613f8a4f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.c5c36485.chunk.css.map": "/static/css/main.c5c36485.chunk.css.map",
+    "static/js/2.f40b5258.chunk.js.LICENSE.txt": "/static/js/2.f40b5258.chunk.js.LICENSE.txt",
+    "static/media/Cartoon - On _ On (feat. Daniel Levi) _NCS Release_.mp3": "/static/media/Cartoon - On _ On (feat. Daniel Levi) _NCS Release_.c778feea.mp3",
+    "static/media/Mortals.mp3": "/static/media/Mortals.795f9967.mp3",
+    "static/media/mortals-feat-laura-brehm.jpg": "/static/media/mortals-feat-laura-brehm.8aeef8cd.jpg",
+    "static/media/next.a5b5fbaa.svg": "/static/media/next.a5b5fbaa.svg",
+    "static/media/onandon.jpg": "/static/media/onandon.f327acaf.jpg",
+    "static/media/pause.b844a76a.svg": "/static/media/pause.b844a76a.svg",
+    "static/media/play.c22c63b5.svg": "/static/media/play.c22c63b5.svg",
+    "static/media/prev.b63de741.svg": "/static/media/prev.b63de741.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39aa26b7.js",
+    "static/js/2.f40b5258.chunk.js",
+    "static/css/main.c5c36485.chunk.css",
+    "static/js/main.9887099c.chunk.js"
+  ]
+}
